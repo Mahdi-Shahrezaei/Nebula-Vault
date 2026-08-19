@@ -31,3 +31,22 @@ Nebula Vault is part of the Nebula Security Suite. Regular updates focusing on e
 
 ---
 *Nebula Vault — Where your data stays yours.*
+
+
+
+<p align="center">
+  <img src="assets/nebula_logo.png" alt="Nebula Vault Logo" width="150">
+</p>
+
+<h1 align="center">Nebula Vault</h1>
+
+<p align="center">
+  <strong>Secure your sensitive data with the ultimate offline encrypted storage.</strong>
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#security">Security</a> •
+  <a href="#getting-started">Getting Started</a>
+</p>
+
