@@ -26,7 +26,7 @@ Nebula Vault is a high-security local storage solution designed to provide a sec
 ## Privacy Promise
 
 Nebula Vault operates under a strict "No-Trace" policy. No information is stored in the Windows Registry, no temporary files are left behind, and no external requests are initiated. Your data is encrypted and saved within a user-defined container, accessible only via the Nebula Vault application.
-![Nebula-Vault-MainPage](https://github.com/Mahdi-Shahrezaei/Nebula-Vault/blob/main/Secure-Limited-Picture-Nebula.png)
+![Nebula-Vault-MainPage](https://github.com/Mahdi-Shahrezaei/Nebula-Vault/blob/main/S-Limited-P-2.png)
 ## Support & Updates
 
 Nebula Vault is part of the Nebula Security Suite. Regular updates focusing on enhancing the stability and security of the core engine will be provided to all users.
